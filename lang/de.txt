@@ -1,0 +1,18 @@
+Datenschutzbestimmung:
+
+Es werden lokal auf dem Handy in der 
+Babyphone.Settings.db3
+Datei folgende Daten gespeichert:
+
+- die in der App ausgewählte Telefonnummer oder Skype Telefonnummer/Benutzername 
+- Art der Kommunikation (Telefon, Skype)
+- der  in der App eingestellte Geräuschpegel
+- ob das Skype Video aktiviert ist oder nicht
+
+Diese Daten speichert die App automatisch bzw. läd diese bei Programmstart.
+
+Es werden keine Daten versendet oder empfangen. 
+
+Bitte beachten Sie den aktuelle Quellcode unter
+https://github.com/bleissem/babyphone
+
