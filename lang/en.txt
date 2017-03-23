@@ -1,0 +1,17 @@
+privacy policy:
+
+the database file
+Babyphone.Settings.db3
+is used to store the following data
+
+- phone number or the Skype user name ( Skype phone number )
+- the communication (phone, Skype)
+- noise level
+- use video or not
+
+the data is automaticly load during startup and saved automaticly
+
+No data will be send or received by the babyphone app itself. 
+
+the current source code can be found under
+https://github.com/bleissem/babyphone
